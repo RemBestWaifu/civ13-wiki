@@ -83,6 +83,10 @@
 
 ### Escalation:
 
+Escalation becomes valid when two requirements are met:
+  * The attacker(s) has clearly stated his intent to the defender(s)
+  * The attacker(s) have left a couple of seconds for the defender(s) to respond. (Note: This includes them gunning you down in the spot, taking cover, or trying to deescalate.)
+
 Because server is MRP/HRP, this means you must “escalate” conflicts.
 Escalation is the act of using RP to build up tensions.
 Usable of emote verbs and the “me” verb are strongly encouraged for
